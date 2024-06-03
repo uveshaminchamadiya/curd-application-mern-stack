@@ -6,7 +6,7 @@
     - client
     - server
 
-1. Move to sever folder
+1. Move to Sever Folder
 
     - Install Packages via npm
     ```bash
@@ -18,7 +18,7 @@
     npm start
     ```
 
-2. Move to client folder
+2. Move to Client Folder
 
     - Install Packages via npm
     ```bash

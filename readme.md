@@ -1,4 +1,4 @@
-# Curd Application - React
+# Curd Application - MERN Stack
 
 ## How to Setup Project
     
